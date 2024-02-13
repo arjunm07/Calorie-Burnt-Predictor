@@ -2,3 +2,4 @@
 Used Machine Learning.
 Used pandas and matplotlib.
 Predicts the amount of calories burnt.
+Used XGBoost Regressor model.
